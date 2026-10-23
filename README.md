@@ -180,3 +180,11 @@ The project stores generated outputs in:
 The packet-level recovery algorithms, channel simulations, repeated experiments, statistical analyses, and automated correctness tests have been implemented.
 
 The current phase focuses on research reproducibility, documentation, and final validation.
+
+## Dataset Reproducibility
+
+The raw Intel Lab sensor dataset is not included in this repository.
+
+For instructions on obtaining the raw data, preprocessing sensor node 48,
+recreating the 16,326-record experiment segment, and verifying SHA-256
+checksums, see the [Dataset Reproducibility Guide](docs/data_reproducibility.md).

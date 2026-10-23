@@ -1,0 +1,13 @@
+Dataset preparation report
+Source: Intel Lab sensor data
+Selected node: 48
+Variables: temperature, humidity
+Resampling interval: 1 minute
+Provisional validity ranges: temperature [-40, 85], humidity [0, 100]
+Interpolation: time-based, up to 5 consecutive missing minutes, internal gaps only
+Rows after resampling: 48855
+Start: 2004-02-28 01:06:00
+End: 2004-04-01 23:20:00
+Missing values after interpolation:
+temperature    15204
+humidity       14015

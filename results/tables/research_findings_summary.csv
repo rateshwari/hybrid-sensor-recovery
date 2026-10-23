@@ -1,0 +1,6 @@
+loss_percent,highest_recovery_method,highest_recovery_percent,highest_recovery_redundancy,efficient_method,efficient_recovery_percent,efficient_redundancy_percent
+5.0,Reed-Solomon Interleaved (8+4),100.0,50.0,Reed-Solomon Interleaved (8+2),99.805,25.0
+10.0,Reed-Solomon Interleaved (8+8),100.0,100.0,Reed-Solomon Interleaved (8+2),98.672,25.0
+25.0,Reed-Solomon Interleaved (8+8),99.635,100.0,Reed-Solomon Interleaved (8+4),94.453,50.0
+50.0,Reed-Solomon Interleaved (8+8),76.875,100.0,Reed-Solomon Interleaved (8+8),76.875,100.0
+75.0,Reed-Solomon Interleaved (8+8),27.253,100.0,Reed-Solomon Interleaved (8+8),27.253,100.0

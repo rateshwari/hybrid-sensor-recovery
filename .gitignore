@@ -18,3 +18,10 @@ __pycache__/
 # Raw datasets: keep local, do not commit by default
 data/raw/*
 !data/raw/.gitkeep
+
+# Local documentation backups
+README.backup.md
+
+# Processed datasets: keep local pending redistribution review
+data/processed/*
+!data/processed/.gitkeep

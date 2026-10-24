@@ -1,0 +1,201 @@
+channel,class_name,method,observations,mean_ssim
+burst,Annual Crop,Fountain (1.25x),1500,0.28727834971385124
+burst,Annual Crop,Fountain (1.50x),1500,0.4063638151435716
+burst,Annual Crop,Fountain (2.00x),1500,0.9168025119442902
+burst,Annual Crop,No ECC,1500,0.5483369265840875
+burst,Annual Crop,RS (8+2),1500,0.6551709279842193
+burst,Annual Crop,RS (8+4),1500,0.778216758677457
+burst,Annual Crop,RS (8+8),1500,0.9025195626772096
+burst,Annual Crop,RS Interleaved (8+2),1500,0.6374879569177971
+burst,Annual Crop,RS Interleaved (8+4),1500,0.8572332319326329
+burst,Annual Crop,RS Interleaved (8+8),1500,0.9857584153368316
+burst,Forest,Fountain (1.25x),1500,0.30764810636160195
+burst,Forest,Fountain (1.50x),1500,0.4272051090441705
+burst,Forest,Fountain (2.00x),1500,0.9199922282475543
+burst,Forest,No ECC,1500,0.5670084141567506
+burst,Forest,RS (8+2),1500,0.6685623705610193
+burst,Forest,RS (8+4),1500,0.786753114691536
+burst,Forest,RS (8+8),1500,0.9059970267854016
+burst,Forest,RS Interleaved (8+2),1500,0.6540633210427491
+burst,Forest,RS Interleaved (8+4),1500,0.8631318611055301
+burst,Forest,RS Interleaved (8+8),1500,0.9862015584446175
+burst,Herbaceous Vegetation,Fountain (1.25x),1500,0.2921988132797623
+burst,Herbaceous Vegetation,Fountain (1.50x),1500,0.4128246676568803
+burst,Herbaceous Vegetation,Fountain (2.00x),1500,0.9177355740676527
+burst,Herbaceous Vegetation,No ECC,1500,0.554879511565293
+burst,Herbaceous Vegetation,RS (8+2),1500,0.6590303035198849
+burst,Herbaceous Vegetation,RS (8+4),1500,0.7809081804365727
+burst,Herbaceous Vegetation,RS (8+8),1500,0.9035344485777562
+burst,Herbaceous Vegetation,RS Interleaved (8+2),1500,0.6443759763245667
+burst,Herbaceous Vegetation,RS Interleaved (8+4),1500,0.8595340994927257
+burst,Herbaceous Vegetation,RS Interleaved (8+8),1500,0.9858279569913074
+burst,Highway,Fountain (1.25x),1500,0.3041610439564009
+burst,Highway,Fountain (1.50x),1500,0.428733779366845
+burst,Highway,Fountain (2.00x),1500,0.9199401580957287
+burst,Highway,No ECC,1500,0.5708299533073578
+burst,Highway,RS (8+2),1500,0.6694084789975122
+burst,Highway,RS (8+4),1500,0.7871974116371396
+burst,Highway,RS (8+8),1500,0.9058077550500835
+burst,Highway,RS Interleaved (8+2),1500,0.6606172397424437
+burst,Highway,RS Interleaved (8+4),1500,0.8646158722991225
+burst,Highway,RS Interleaved (8+8),1500,0.9861045450874062
+burst,Industrial Buildings,Fountain (1.25x),1500,0.3172627990341422
+burst,Industrial Buildings,Fountain (1.50x),1500,0.4478472506217614
+burst,Industrial Buildings,Fountain (2.00x),1500,0.9225520605979508
+burst,Industrial Buildings,No ECC,1500,0.5913102687283426
+burst,Industrial Buildings,RS (8+2),1500,0.6818418026128686
+burst,Industrial Buildings,RS (8+4),1500,0.7952592170411704
+burst,Industrial Buildings,RS (8+8),1500,0.9083416168140335
+burst,Industrial Buildings,RS Interleaved (8+2),1500,0.6829325518967901
+burst,Industrial Buildings,RS Interleaved (8+4),1500,0.8715623569887592
+burst,Industrial Buildings,RS Interleaved (8+8),1500,0.9864028065041724
+burst,Pasture,Fountain (1.25x),1500,0.29485378631329306
+burst,Pasture,Fountain (1.50x),1500,0.4141294714747025
+burst,Pasture,Fountain (2.00x),1500,0.917985848891816
+burst,Pasture,No ECC,1500,0.5549933135161454
+burst,Pasture,RS (8+2),1500,0.6598311736443931
+burst,Pasture,RS (8+4),1500,0.7811295785070825
+burst,Pasture,RS (8+8),1500,0.9036587261287549
+burst,Pasture,RS Interleaved (8+2),1500,0.6438720316966686
+burst,Pasture,RS Interleaved (8+4),1500,0.8592674944732434
+burst,Pasture,RS Interleaved (8+8),1500,0.9858178003847821
+burst,Permanent Crop,Fountain (1.25x),1500,0.29330987186685287
+burst,Permanent Crop,Fountain (1.50x),1500,0.41534069608956337
+burst,Permanent Crop,Fountain (2.00x),1500,0.918112867205589
+burst,Permanent Crop,No ECC,1500,0.5570995830198306
+burst,Permanent Crop,RS (8+2),1500,0.6603760507617357
+burst,Permanent Crop,RS (8+4),1500,0.7816269300509031
+burst,Permanent Crop,RS (8+8),1500,0.9036933301539096
+burst,Permanent Crop,RS Interleaved (8+2),1500,0.6473216987227404
+burst,Permanent Crop,RS Interleaved (8+4),1500,0.8600096370997092
+burst,Permanent Crop,RS Interleaved (8+8),1500,0.9857561983762785
+burst,Residential Buildings,Fountain (1.25x),1500,0.30691807413620475
+burst,Residential Buildings,Fountain (1.50x),1500,0.43365488922445405
+burst,Residential Buildings,Fountain (2.00x),1500,0.9206497322551418
+burst,Residential Buildings,No ECC,1500,0.5773319047834009
+burst,Residential Buildings,RS (8+2),1500,0.6732467933544296
+burst,Residential Buildings,RS (8+4),1500,0.7900040219639906
+burst,Residential Buildings,RS (8+8),1500,0.9067416404129811
+burst,Residential Buildings,RS Interleaved (8+2),1500,0.6666971401786793
+burst,Residential Buildings,RS Interleaved (8+4),1500,0.8663812785054418
+burst,Residential Buildings,RS Interleaved (8+8),1500,0.9861574525435364
+burst,River,Fountain (1.25x),1500,0.3015606383121933
+burst,River,Fountain (1.50x),1500,0.4240561827134093
+burst,River,Fountain (2.00x),1500,0.9193384346852657
+burst,River,No ECC,1500,0.5653375784940299
+burst,River,RS (8+2),1500,0.6660671093709849
+burst,River,RS (8+4),1500,0.7850926040227617
+burst,River,RS (8+8),1500,0.9051435241865274
+burst,River,RS Interleaved (8+2),1500,0.6548662916767827
+burst,River,RS Interleaved (8+4),1500,0.8630235514461405
+burst,River,RS Interleaved (8+8),1500,0.9860611514216825
+burst,SeaLake,Fountain (1.25x),1500,0.3108676919928431
+burst,SeaLake,Fountain (1.50x),1500,0.43022715798263517
+burst,SeaLake,Fountain (2.00x),1500,0.920433582510902
+burst,SeaLake,No ECC,1500,0.5687845892167932
+burst,SeaLake,RS (8+2),1500,0.6701179963761033
+burst,SeaLake,RS (8+4),1500,0.7875872875765209
+burst,SeaLake,RS (8+8),1500,0.9064879941702647
+burst,SeaLake,RS Interleaved (8+2),1500,0.6556072557895746
+burst,SeaLake,RS Interleaved (8+4),1500,0.8639119460164683
+burst,SeaLake,RS Interleaved (8+8),1500,0.9863048036966195
+iid,Annual Crop,Fountain (1.25x),1500,0.14744586089941492
+iid,Annual Crop,Fountain (1.50x),1500,0.7245122153644787
+iid,Annual Crop,Fountain (2.00x),1500,1.0
+iid,Annual Crop,No ECC,1500,0.26977301396433556
+iid,Annual Crop,RS (8+2),1500,0.49723143889916943
+iid,Annual Crop,RS (8+4),1500,0.7987647323701573
+iid,Annual Crop,RS (8+8),1500,0.9783654939411812
+iid,Annual Crop,RS Interleaved (8+2),1500,0.49503977255260884
+iid,Annual Crop,RS Interleaved (8+4),1500,0.7835709575976537
+iid,Annual Crop,RS Interleaved (8+8),1500,0.9910606804924201
+iid,Forest,Fountain (1.25x),1500,0.17416983891766047
+iid,Forest,Fountain (1.50x),1500,0.7360834883788183
+iid,Forest,Fountain (2.00x),1500,1.0
+iid,Forest,No ECC,1500,0.3041567598677427
+iid,Forest,RS (8+2),1500,0.5200689013837482
+iid,Forest,RS (8+4),1500,0.8075655516928006
+iid,Forest,RS (8+8),1500,0.9791943419703135
+iid,Forest,RS Interleaved (8+2),1500,0.5185356759653633
+iid,Forest,RS Interleaved (8+4),1500,0.7935758888156397
+iid,Forest,RS Interleaved (8+8),1500,0.9914877844196943
+iid,Herbaceous Vegetation,Fountain (1.25x),1500,0.15514830403792426
+iid,Herbaceous Vegetation,Fountain (1.50x),1500,0.7288515118155978
+iid,Herbaceous Vegetation,Fountain (2.00x),1500,1.0
+iid,Herbaceous Vegetation,No ECC,1500,0.28501324700986624
+iid,Herbaceous Vegetation,RS (8+2),1500,0.506445846832379
+iid,Herbaceous Vegetation,RS (8+4),1500,0.801683783268388
+iid,Herbaceous Vegetation,RS (8+8),1500,0.9785728283807381
+iid,Herbaceous Vegetation,RS Interleaved (8+2),1500,0.5054547682411528
+iid,Herbaceous Vegetation,RS Interleaved (8+4),1500,0.7876113517975482
+iid,Herbaceous Vegetation,RS Interleaved (8+8),1500,0.9912051747741152
+iid,Highway,Fountain (1.25x),1500,0.17174798659086712
+iid,Highway,Fountain (1.50x),1500,0.7392264478006493
+iid,Highway,Fountain (2.00x),1500,1.0
+iid,Highway,No ECC,1500,0.3212362610957267
+iid,Highway,RS (8+2),1500,0.530068898696975
+iid,Highway,RS (8+4),1500,0.8105998111536463
+iid,Highway,RS (8+8),1500,0.9792606916941726
+iid,Highway,RS Interleaved (8+2),1500,0.528956586439245
+iid,Highway,RS Interleaved (8+4),1500,0.7976936541751437
+iid,Highway,RS Interleaved (8+8),1500,0.991621282008647
+iid,Industrial Buildings,Fountain (1.25x),1500,0.19115341812903347
+iid,Industrial Buildings,Fountain (1.50x),1500,0.7522629239664198
+iid,Industrial Buildings,Fountain (2.00x),1500,1.0
+iid,Industrial Buildings,No ECC,1500,0.3712020620425192
+iid,Industrial Buildings,RS (8+2),1500,0.5616903200453958
+iid,Industrial Buildings,RS (8+4),1500,0.8226482770958043
+iid,Industrial Buildings,RS (8+8),1500,0.9800794511125319
+iid,Industrial Buildings,RS Interleaved (8+2),1500,0.5617411684845537
+iid,Industrial Buildings,RS Interleaved (8+4),1500,0.8113489614125167
+iid,Industrial Buildings,RS Interleaved (8+8),1500,0.9921070227258341
+iid,Pasture,Fountain (1.25x),1500,0.15743524033876533
+iid,Pasture,Fountain (1.50x),1500,0.7290278664902521
+iid,Pasture,Fountain (2.00x),1500,1.0
+iid,Pasture,No ECC,1500,0.28220521987463826
+iid,Pasture,RS (8+2),1500,0.5054690752934508
+iid,Pasture,RS (8+4),1500,0.8016669803565222
+iid,Pasture,RS (8+8),1500,0.9786004349990172
+iid,Pasture,RS Interleaved (8+2),1500,0.5038436818820061
+iid,Pasture,RS Interleaved (8+4),1500,0.7871344175992848
+iid,Pasture,RS Interleaved (8+8),1500,0.9912594382330283
+iid,Permanent Crop,Fountain (1.25x),1500,0.1571146678691095
+iid,Permanent Crop,Fountain (1.50x),1500,0.7307227715086998
+iid,Permanent Crop,Fountain (2.00x),1500,1.0
+iid,Permanent Crop,No ECC,1500,0.2921587794044338
+iid,Permanent Crop,RS (8+2),1500,0.5109944591858756
+iid,Permanent Crop,RS (8+4),1500,0.8036431127389734
+iid,Permanent Crop,RS (8+8),1500,0.9787059906574469
+iid,Permanent Crop,RS Interleaved (8+2),1500,0.5100654870021518
+iid,Permanent Crop,RS Interleaved (8+4),1500,0.7896825398900212
+iid,Permanent Crop,RS Interleaved (8+8),1500,0.991305247158346
+iid,Residential Buildings,Fountain (1.25x),1500,0.17687180113601342
+iid,Residential Buildings,Fountain (1.50x),1500,0.7425580813483993
+iid,Residential Buildings,Fountain (2.00x),1500,1.0
+iid,Residential Buildings,No ECC,1500,0.3364517975259453
+iid,Residential Buildings,RS (8+2),1500,0.539235050138005
+iid,Residential Buildings,RS (8+4),1500,0.814126081692313
+iid,Residential Buildings,RS (8+8),1500,0.9794445350254799
+iid,Residential Buildings,RS Interleaved (8+2),1500,0.5385194584151637
+iid,Residential Buildings,RS Interleaved (8+4),1500,0.8015220052262085
+iid,Residential Buildings,RS Interleaved (8+8),1500,0.9917626881713929
+iid,River,Fountain (1.25x),1500,0.16807721603691064
+iid,River,Fountain (1.50x),1500,0.7353751300446931
+iid,River,Fountain (2.00x),1500,1.0
+iid,River,No ECC,1500,0.3074060936702052
+iid,River,RS (8+2),1500,0.5215789684044994
+iid,River,RS (8+4),1500,0.8072518812485994
+iid,River,RS (8+8),1500,0.9790357459194168
+iid,River,RS Interleaved (8+2),1500,0.5199893689277904
+iid,River,RS Interleaved (8+4),1500,0.793981183357263
+iid,River,RS Interleaved (8+8),1500,0.991501746726571
+iid,SeaLake,Fountain (1.25x),1500,0.17799835058068728
+iid,SeaLake,Fountain (1.50x),1500,0.7375105982916514
+iid,SeaLake,Fountain (2.00x),1500,1.0
+iid,SeaLake,No ECC,1500,0.30642668621600205
+iid,SeaLake,RS (8+2),1500,0.522041864055083
+iid,SeaLake,RS (8+4),1500,0.8082028916873625
+iid,SeaLake,RS (8+8),1500,0.9792913431357134
+iid,SeaLake,RS Interleaved (8+2),1500,0.5204720228119667
+iid,SeaLake,RS Interleaved (8+4),1500,0.794452596761361
+iid,SeaLake,RS Interleaved (8+8),1500,0.9915521432714053

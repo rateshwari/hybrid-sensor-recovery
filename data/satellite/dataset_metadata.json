@@ -1,0 +1,19 @@
+{
+  "dataset": "blanchon/EuroSAT_RGB",
+  "split": "train",
+  "images_per_class": 50,
+  "total_images": 500,
+  "class_names": [
+    "Annual Crop",
+    "Forest",
+    "Herbaceous Vegetation",
+    "Highway",
+    "Industrial Buildings",
+    "Pasture",
+    "Permanent Crop",
+    "Residential Buildings",
+    "River",
+    "SeaLake"
+  ],
+  "sampling": "first 50 encountered per class in dataset order"
+}

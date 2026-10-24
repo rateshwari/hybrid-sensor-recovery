@@ -25,3 +25,24 @@ README.backup.md
 # Processed datasets: keep local pending redistribution review
 data/processed/*
 !data/processed/.gitkeep
+
+# Satellite image datasets (local only)
+data/satellite/raw/
+data/satellite/balanced/
+
+# Large generated satellite experiment records
+results/satellite/quality/full_quality_results.csv
+results/satellite/quality/pilot_results.csv
+results/satellite/quality/iid/
+results/satellite/quality/burst/
+
+# Next.js generated output and dependencies
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+
+# Python packaging artifacts
+*.egg-info/
+build/
+dist/

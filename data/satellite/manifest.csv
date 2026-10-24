@@ -1,0 +1,501 @@
+dataset_index,original_filename,label,class_name,saved_path
+0,AnnualCrop_1.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000000.png
+1,AnnualCrop_10.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000001.png
+2,AnnualCrop_100.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000002.png
+3,AnnualCrop_1000.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000003.png
+4,AnnualCrop_1001.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000004.png
+5,AnnualCrop_1004.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000005.png
+6,AnnualCrop_1005.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000006.png
+7,AnnualCrop_1006.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000007.png
+8,AnnualCrop_1009.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000008.png
+9,AnnualCrop_1010.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000009.png
+10,AnnualCrop_1011.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000010.png
+11,AnnualCrop_1013.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000011.png
+12,AnnualCrop_1016.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000012.png
+13,AnnualCrop_1018.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000013.png
+14,AnnualCrop_1019.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000014.png
+15,AnnualCrop_1020.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000015.png
+16,AnnualCrop_1021.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000016.png
+17,AnnualCrop_1022.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000017.png
+18,AnnualCrop_1023.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000018.png
+19,AnnualCrop_1026.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000019.png
+20,AnnualCrop_1027.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000020.png
+21,AnnualCrop_1028.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000021.png
+22,AnnualCrop_1029.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000022.png
+23,AnnualCrop_103.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000023.png
+24,AnnualCrop_1031.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000024.png
+25,AnnualCrop_1032.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000025.png
+26,AnnualCrop_1033.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000026.png
+27,AnnualCrop_1034.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000027.png
+28,AnnualCrop_1035.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000028.png
+29,AnnualCrop_1036.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000029.png
+30,AnnualCrop_1037.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000030.png
+31,AnnualCrop_1038.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000031.png
+32,AnnualCrop_104.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000032.png
+33,AnnualCrop_1040.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000033.png
+34,AnnualCrop_1042.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000034.png
+35,AnnualCrop_1043.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000035.png
+36,AnnualCrop_1045.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000036.png
+37,AnnualCrop_1046.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000037.png
+38,AnnualCrop_1048.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000038.png
+39,AnnualCrop_1049.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000039.png
+40,AnnualCrop_1050.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000040.png
+41,AnnualCrop_1051.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000041.png
+42,AnnualCrop_1053.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000042.png
+43,AnnualCrop_1054.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000043.png
+44,AnnualCrop_1055.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000044.png
+45,AnnualCrop_1056.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000045.png
+46,AnnualCrop_1058.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000046.png
+47,AnnualCrop_106.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000047.png
+48,AnnualCrop_1060.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000048.png
+49,AnnualCrop_1062.tif,0,Annual Crop,data/satellite/balanced/class_00/eurosat_000049.png
+1791,Forest_1.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001791.png
+1792,Forest_1001.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001792.png
+1793,Forest_1005.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001793.png
+1794,Forest_1006.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001794.png
+1795,Forest_1007.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001795.png
+1796,Forest_1008.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001796.png
+1797,Forest_1010.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001797.png
+1798,Forest_1012.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001798.png
+1799,Forest_1014.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001799.png
+1800,Forest_1016.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001800.png
+1801,Forest_1017.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001801.png
+1802,Forest_1018.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001802.png
+1803,Forest_1019.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001803.png
+1804,Forest_1020.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001804.png
+1805,Forest_1021.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001805.png
+1806,Forest_1022.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001806.png
+1807,Forest_1023.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001807.png
+1808,Forest_1027.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001808.png
+1809,Forest_103.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001809.png
+1810,Forest_1030.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001810.png
+1811,Forest_1031.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001811.png
+1812,Forest_1033.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001812.png
+1813,Forest_1034.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001813.png
+1814,Forest_1035.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001814.png
+1815,Forest_1038.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001815.png
+1816,Forest_104.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001816.png
+1817,Forest_1043.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001817.png
+1818,Forest_1044.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001818.png
+1819,Forest_1045.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001819.png
+1820,Forest_1046.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001820.png
+1821,Forest_1049.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001821.png
+1822,Forest_105.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001822.png
+1823,Forest_1050.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001823.png
+1824,Forest_1051.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001824.png
+1825,Forest_1052.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001825.png
+1826,Forest_1055.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001826.png
+1827,Forest_1057.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001827.png
+1828,Forest_106.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001828.png
+1829,Forest_1062.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001829.png
+1830,Forest_1063.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001830.png
+1831,Forest_1064.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001831.png
+1832,Forest_1065.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001832.png
+1833,Forest_1066.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001833.png
+1834,Forest_1067.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001834.png
+1835,Forest_1068.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001835.png
+1836,Forest_1069.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001836.png
+1837,Forest_107.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001837.png
+1838,Forest_1070.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001838.png
+1839,Forest_1072.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001839.png
+1840,Forest_1074.tif,1,Forest,data/satellite/balanced/class_01/eurosat_001840.png
+3578,HerbaceousVegetation_1.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003578.png
+3579,HerbaceousVegetation_1000.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003579.png
+3580,HerbaceousVegetation_1001.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003580.png
+3581,HerbaceousVegetation_1002.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003581.png
+3582,HerbaceousVegetation_1003.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003582.png
+3583,HerbaceousVegetation_1004.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003583.png
+3584,HerbaceousVegetation_1006.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003584.png
+3585,HerbaceousVegetation_1009.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003585.png
+3586,HerbaceousVegetation_1010.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003586.png
+3587,HerbaceousVegetation_1011.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003587.png
+3588,HerbaceousVegetation_1013.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003588.png
+3589,HerbaceousVegetation_1014.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003589.png
+3590,HerbaceousVegetation_1015.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003590.png
+3591,HerbaceousVegetation_1016.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003591.png
+3592,HerbaceousVegetation_1018.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003592.png
+3593,HerbaceousVegetation_1019.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003593.png
+3594,HerbaceousVegetation_102.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003594.png
+3595,HerbaceousVegetation_1020.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003595.png
+3596,HerbaceousVegetation_1021.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003596.png
+3597,HerbaceousVegetation_1022.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003597.png
+3598,HerbaceousVegetation_1023.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003598.png
+3599,HerbaceousVegetation_1024.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003599.png
+3600,HerbaceousVegetation_1027.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003600.png
+3601,HerbaceousVegetation_1029.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003601.png
+3602,HerbaceousVegetation_103.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003602.png
+3603,HerbaceousVegetation_1031.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003603.png
+3604,HerbaceousVegetation_1032.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003604.png
+3605,HerbaceousVegetation_1035.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003605.png
+3606,HerbaceousVegetation_1037.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003606.png
+3607,HerbaceousVegetation_104.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003607.png
+3608,HerbaceousVegetation_1040.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003608.png
+3609,HerbaceousVegetation_1042.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003609.png
+3610,HerbaceousVegetation_1044.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003610.png
+3611,HerbaceousVegetation_1045.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003611.png
+3612,HerbaceousVegetation_1046.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003612.png
+3613,HerbaceousVegetation_1047.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003613.png
+3614,HerbaceousVegetation_105.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003614.png
+3615,HerbaceousVegetation_1052.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003615.png
+3616,HerbaceousVegetation_1053.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003616.png
+3617,HerbaceousVegetation_1054.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003617.png
+3618,HerbaceousVegetation_1056.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003618.png
+3619,HerbaceousVegetation_1057.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003619.png
+3620,HerbaceousVegetation_1059.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003620.png
+3621,HerbaceousVegetation_1060.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003621.png
+3622,HerbaceousVegetation_1061.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003622.png
+3623,HerbaceousVegetation_1063.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003623.png
+3624,HerbaceousVegetation_1064.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003624.png
+3625,HerbaceousVegetation_1065.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003625.png
+3626,HerbaceousVegetation_1067.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003626.png
+3627,HerbaceousVegetation_1068.tif,2,Herbaceous Vegetation,data/satellite/balanced/class_02/eurosat_003627.png
+5377,Highway_1.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005377.png
+5378,Highway_10.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005378.png
+5379,Highway_1000.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005379.png
+5380,Highway_1001.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005380.png
+5381,Highway_1002.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005381.png
+5382,Highway_1003.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005382.png
+5383,Highway_1004.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005383.png
+5384,Highway_1005.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005384.png
+5385,Highway_1007.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005385.png
+5386,Highway_1008.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005386.png
+5387,Highway_1010.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005387.png
+5388,Highway_1012.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005388.png
+5389,Highway_1013.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005389.png
+5390,Highway_1014.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005390.png
+5391,Highway_1015.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005391.png
+5392,Highway_1016.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005392.png
+5393,Highway_1018.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005393.png
+5394,Highway_1019.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005394.png
+5395,Highway_102.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005395.png
+5396,Highway_1020.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005396.png
+5397,Highway_1021.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005397.png
+5398,Highway_1022.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005398.png
+5399,Highway_1024.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005399.png
+5400,Highway_1025.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005400.png
+5401,Highway_1027.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005401.png
+5402,Highway_1028.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005402.png
+5403,Highway_1029.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005403.png
+5404,Highway_103.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005404.png
+5405,Highway_1031.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005405.png
+5406,Highway_1037.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005406.png
+5407,Highway_1039.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005407.png
+5408,Highway_104.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005408.png
+5409,Highway_1040.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005409.png
+5410,Highway_1041.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005410.png
+5411,Highway_1042.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005411.png
+5412,Highway_1043.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005412.png
+5413,Highway_1044.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005413.png
+5414,Highway_1045.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005414.png
+5415,Highway_1049.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005415.png
+5416,Highway_105.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005416.png
+5417,Highway_1052.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005417.png
+5418,Highway_1054.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005418.png
+5419,Highway_1055.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005419.png
+5420,Highway_1056.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005420.png
+5421,Highway_1058.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005421.png
+5422,Highway_1060.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005422.png
+5423,Highway_1062.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005423.png
+5424,Highway_1063.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005424.png
+5425,Highway_1064.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005425.png
+5426,Highway_1065.tif,3,Highway,data/satellite/balanced/class_03/eurosat_005426.png
+6882,Industrial_1.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006882.png
+6883,Industrial_100.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006883.png
+6884,Industrial_1000.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006884.png
+6885,Industrial_1001.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006885.png
+6886,Industrial_1002.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006886.png
+6887,Industrial_1004.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006887.png
+6888,Industrial_1005.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006888.png
+6889,Industrial_1006.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006889.png
+6890,Industrial_101.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006890.png
+6891,Industrial_1010.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006891.png
+6892,Industrial_1011.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006892.png
+6893,Industrial_1012.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006893.png
+6894,Industrial_1014.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006894.png
+6895,Industrial_1016.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006895.png
+6896,Industrial_1017.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006896.png
+6897,Industrial_1018.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006897.png
+6898,Industrial_1020.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006898.png
+6899,Industrial_1021.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006899.png
+6900,Industrial_1022.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006900.png
+6901,Industrial_1025.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006901.png
+6902,Industrial_1026.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006902.png
+6903,Industrial_1030.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006903.png
+6904,Industrial_1031.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006904.png
+6905,Industrial_1032.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006905.png
+6906,Industrial_1034.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006906.png
+6907,Industrial_1036.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006907.png
+6908,Industrial_1037.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006908.png
+6909,Industrial_1040.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006909.png
+6910,Industrial_1041.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006910.png
+6911,Industrial_1043.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006911.png
+6912,Industrial_1044.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006912.png
+6913,Industrial_1045.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006913.png
+6914,Industrial_1048.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006914.png
+6915,Industrial_1049.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006915.png
+6916,Industrial_1053.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006916.png
+6917,Industrial_1054.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006917.png
+6918,Industrial_1055.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006918.png
+6919,Industrial_1056.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006919.png
+6920,Industrial_1057.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006920.png
+6921,Industrial_1058.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006921.png
+6922,Industrial_106.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006922.png
+6923,Industrial_1061.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006923.png
+6924,Industrial_1065.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006924.png
+6925,Industrial_1066.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006925.png
+6926,Industrial_1067.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006926.png
+6927,Industrial_1068.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006927.png
+6928,Industrial_1069.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006928.png
+6929,Industrial_1070.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006929.png
+6930,Industrial_1071.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006930.png
+6931,Industrial_1072.tif,4,Industrial Buildings,data/satellite/balanced/class_04/eurosat_006931.png
+8374,Pasture_1.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008374.png
+8375,Pasture_100.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008375.png
+8376,Pasture_1000.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008376.png
+8377,Pasture_1001.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008377.png
+8378,Pasture_1003.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008378.png
+8379,Pasture_1005.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008379.png
+8380,Pasture_1008.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008380.png
+8381,Pasture_1009.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008381.png
+8382,Pasture_101.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008382.png
+8383,Pasture_1013.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008383.png
+8384,Pasture_1016.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008384.png
+8385,Pasture_1018.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008385.png
+8386,Pasture_1019.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008386.png
+8387,Pasture_1020.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008387.png
+8388,Pasture_1022.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008388.png
+8389,Pasture_1023.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008389.png
+8390,Pasture_1024.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008390.png
+8391,Pasture_1025.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008391.png
+8392,Pasture_1026.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008392.png
+8393,Pasture_1027.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008393.png
+8394,Pasture_103.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008394.png
+8395,Pasture_1030.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008395.png
+8396,Pasture_1031.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008396.png
+8397,Pasture_1032.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008397.png
+8398,Pasture_1035.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008398.png
+8399,Pasture_1036.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008399.png
+8400,Pasture_1037.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008400.png
+8401,Pasture_1041.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008401.png
+8402,Pasture_1042.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008402.png
+8403,Pasture_1043.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008403.png
+8404,Pasture_1044.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008404.png
+8405,Pasture_1045.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008405.png
+8406,Pasture_1046.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008406.png
+8407,Pasture_1047.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008407.png
+8408,Pasture_105.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008408.png
+8409,Pasture_1050.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008409.png
+8410,Pasture_1052.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008410.png
+8411,Pasture_1053.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008411.png
+8412,Pasture_1054.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008412.png
+8413,Pasture_1055.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008413.png
+8414,Pasture_1056.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008414.png
+8415,Pasture_1057.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008415.png
+8416,Pasture_1058.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008416.png
+8417,Pasture_1059.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008417.png
+8418,Pasture_106.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008418.png
+8419,Pasture_1060.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008419.png
+8420,Pasture_1062.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008420.png
+8421,Pasture_1063.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008421.png
+8422,Pasture_1065.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008422.png
+8423,Pasture_1067.tif,5,Pasture,data/satellite/balanced/class_05/eurosat_008423.png
+9569,PermanentCrop_10.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009569.png
+9570,PermanentCrop_1000.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009570.png
+9571,PermanentCrop_1001.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009571.png
+9572,PermanentCrop_1002.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009572.png
+9573,PermanentCrop_1003.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009573.png
+9574,PermanentCrop_1005.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009574.png
+9575,PermanentCrop_101.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009575.png
+9576,PermanentCrop_1010.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009576.png
+9577,PermanentCrop_1011.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009577.png
+9578,PermanentCrop_1012.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009578.png
+9579,PermanentCrop_1013.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009579.png
+9580,PermanentCrop_1016.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009580.png
+9581,PermanentCrop_1017.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009581.png
+9582,PermanentCrop_1018.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009582.png
+9583,PermanentCrop_1019.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009583.png
+9584,PermanentCrop_102.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009584.png
+9585,PermanentCrop_1020.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009585.png
+9586,PermanentCrop_1021.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009586.png
+9587,PermanentCrop_1022.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009587.png
+9588,PermanentCrop_1023.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009588.png
+9589,PermanentCrop_1024.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009589.png
+9590,PermanentCrop_1025.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009590.png
+9591,PermanentCrop_1026.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009591.png
+9592,PermanentCrop_1027.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009592.png
+9593,PermanentCrop_1028.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009593.png
+9594,PermanentCrop_1029.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009594.png
+9595,PermanentCrop_103.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009595.png
+9596,PermanentCrop_1031.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009596.png
+9597,PermanentCrop_1032.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009597.png
+9598,PermanentCrop_1035.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009598.png
+9599,PermanentCrop_1037.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009599.png
+9600,PermanentCrop_1039.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009600.png
+9601,PermanentCrop_1041.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009601.png
+9602,PermanentCrop_1045.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009602.png
+9603,PermanentCrop_1046.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009603.png
+9604,PermanentCrop_1047.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009604.png
+9605,PermanentCrop_1048.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009605.png
+9606,PermanentCrop_1049.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009606.png
+9607,PermanentCrop_105.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009607.png
+9608,PermanentCrop_1050.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009608.png
+9609,PermanentCrop_1054.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009609.png
+9610,PermanentCrop_1055.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009610.png
+9611,PermanentCrop_1057.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009611.png
+9612,PermanentCrop_1058.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009612.png
+9613,PermanentCrop_1059.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009613.png
+9614,PermanentCrop_1060.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009614.png
+9615,PermanentCrop_1062.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009615.png
+9616,PermanentCrop_1063.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009616.png
+9617,PermanentCrop_1066.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009617.png
+9618,PermanentCrop_1067.tif,6,Permanent Crop,data/satellite/balanced/class_06/eurosat_009618.png
+11050,Residential_100.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011050.png
+11051,Residential_1000.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011051.png
+11052,Residential_1001.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011052.png
+11053,Residential_1002.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011053.png
+11054,Residential_1006.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011054.png
+11055,Residential_1008.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011055.png
+11056,Residential_1009.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011056.png
+11057,Residential_101.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011057.png
+11058,Residential_1011.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011058.png
+11059,Residential_1012.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011059.png
+11060,Residential_1013.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011060.png
+11061,Residential_1015.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011061.png
+11062,Residential_1016.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011062.png
+11063,Residential_1017.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011063.png
+11064,Residential_1018.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011064.png
+11065,Residential_1019.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011065.png
+11066,Residential_1022.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011066.png
+11067,Residential_1025.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011067.png
+11068,Residential_1026.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011068.png
+11069,Residential_1027.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011069.png
+11070,Residential_1029.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011070.png
+11071,Residential_103.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011071.png
+11072,Residential_1030.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011072.png
+11073,Residential_1033.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011073.png
+11074,Residential_1035.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011074.png
+11075,Residential_1036.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011075.png
+11076,Residential_1037.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011076.png
+11077,Residential_1038.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011077.png
+11078,Residential_104.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011078.png
+11079,Residential_1041.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011079.png
+11080,Residential_1042.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011080.png
+11081,Residential_1043.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011081.png
+11082,Residential_1045.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011082.png
+11083,Residential_1046.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011083.png
+11084,Residential_1048.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011084.png
+11085,Residential_105.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011085.png
+11086,Residential_1050.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011086.png
+11087,Residential_1052.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011087.png
+11088,Residential_1053.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011088.png
+11089,Residential_1054.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011089.png
+11090,Residential_1055.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011090.png
+11091,Residential_1056.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011091.png
+11092,Residential_1057.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011092.png
+11093,Residential_1059.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011093.png
+11094,Residential_106.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011094.png
+11095,Residential_1060.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011095.png
+11096,Residential_1061.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011096.png
+11097,Residential_1062.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011097.png
+11098,Residential_1064.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011098.png
+11099,Residential_1065.tif,7,Residential Buildings,data/satellite/balanced/class_07/eurosat_011099.png
+12913,River_1.tif,8,River,data/satellite/balanced/class_08/eurosat_012913.png
+12914,River_10.tif,8,River,data/satellite/balanced/class_08/eurosat_012914.png
+12915,River_1000.tif,8,River,data/satellite/balanced/class_08/eurosat_012915.png
+12916,River_1001.tif,8,River,data/satellite/balanced/class_08/eurosat_012916.png
+12917,River_1003.tif,8,River,data/satellite/balanced/class_08/eurosat_012917.png
+12918,River_1005.tif,8,River,data/satellite/balanced/class_08/eurosat_012918.png
+12919,River_1006.tif,8,River,data/satellite/balanced/class_08/eurosat_012919.png
+12920,River_1007.tif,8,River,data/satellite/balanced/class_08/eurosat_012920.png
+12921,River_1008.tif,8,River,data/satellite/balanced/class_08/eurosat_012921.png
+12922,River_1009.tif,8,River,data/satellite/balanced/class_08/eurosat_012922.png
+12923,River_1011.tif,8,River,data/satellite/balanced/class_08/eurosat_012923.png
+12924,River_1012.tif,8,River,data/satellite/balanced/class_08/eurosat_012924.png
+12925,River_1014.tif,8,River,data/satellite/balanced/class_08/eurosat_012925.png
+12926,River_1015.tif,8,River,data/satellite/balanced/class_08/eurosat_012926.png
+12927,River_1016.tif,8,River,data/satellite/balanced/class_08/eurosat_012927.png
+12928,River_1017.tif,8,River,data/satellite/balanced/class_08/eurosat_012928.png
+12929,River_1018.tif,8,River,data/satellite/balanced/class_08/eurosat_012929.png
+12930,River_102.tif,8,River,data/satellite/balanced/class_08/eurosat_012930.png
+12931,River_1020.tif,8,River,data/satellite/balanced/class_08/eurosat_012931.png
+12932,River_1022.tif,8,River,data/satellite/balanced/class_08/eurosat_012932.png
+12933,River_1023.tif,8,River,data/satellite/balanced/class_08/eurosat_012933.png
+12934,River_1024.tif,8,River,data/satellite/balanced/class_08/eurosat_012934.png
+12935,River_1026.tif,8,River,data/satellite/balanced/class_08/eurosat_012935.png
+12936,River_103.tif,8,River,data/satellite/balanced/class_08/eurosat_012936.png
+12937,River_1030.tif,8,River,data/satellite/balanced/class_08/eurosat_012937.png
+12938,River_1031.tif,8,River,data/satellite/balanced/class_08/eurosat_012938.png
+12939,River_1033.tif,8,River,data/satellite/balanced/class_08/eurosat_012939.png
+12940,River_1034.tif,8,River,data/satellite/balanced/class_08/eurosat_012940.png
+12941,River_1036.tif,8,River,data/satellite/balanced/class_08/eurosat_012941.png
+12942,River_104.tif,8,River,data/satellite/balanced/class_08/eurosat_012942.png
+12943,River_1040.tif,8,River,data/satellite/balanced/class_08/eurosat_012943.png
+12944,River_1042.tif,8,River,data/satellite/balanced/class_08/eurosat_012944.png
+12945,River_1045.tif,8,River,data/satellite/balanced/class_08/eurosat_012945.png
+12946,River_1046.tif,8,River,data/satellite/balanced/class_08/eurosat_012946.png
+12947,River_1047.tif,8,River,data/satellite/balanced/class_08/eurosat_012947.png
+12948,River_1048.tif,8,River,data/satellite/balanced/class_08/eurosat_012948.png
+12949,River_1052.tif,8,River,data/satellite/balanced/class_08/eurosat_012949.png
+12950,River_1053.tif,8,River,data/satellite/balanced/class_08/eurosat_012950.png
+12951,River_1055.tif,8,River,data/satellite/balanced/class_08/eurosat_012951.png
+12952,River_1056.tif,8,River,data/satellite/balanced/class_08/eurosat_012952.png
+12953,River_1057.tif,8,River,data/satellite/balanced/class_08/eurosat_012953.png
+12954,River_106.tif,8,River,data/satellite/balanced/class_08/eurosat_012954.png
+12955,River_1060.tif,8,River,data/satellite/balanced/class_08/eurosat_012955.png
+12956,River_1061.tif,8,River,data/satellite/balanced/class_08/eurosat_012956.png
+12957,River_1063.tif,8,River,data/satellite/balanced/class_08/eurosat_012957.png
+12958,River_1064.tif,8,River,data/satellite/balanced/class_08/eurosat_012958.png
+12959,River_1067.tif,8,River,data/satellite/balanced/class_08/eurosat_012959.png
+12960,River_1069.tif,8,River,data/satellite/balanced/class_08/eurosat_012960.png
+12961,River_107.tif,8,River,data/satellite/balanced/class_08/eurosat_012961.png
+12962,River_1070.tif,8,River,data/satellite/balanced/class_08/eurosat_012962.png
+14373,SeaLake_10.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014373.png
+14374,SeaLake_100.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014374.png
+14375,SeaLake_1001.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014375.png
+14376,SeaLake_1002.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014376.png
+14377,SeaLake_1003.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014377.png
+14378,SeaLake_1004.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014378.png
+14379,SeaLake_1005.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014379.png
+14380,SeaLake_1006.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014380.png
+14381,SeaLake_1007.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014381.png
+14382,SeaLake_1008.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014382.png
+14383,SeaLake_101.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014383.png
+14384,SeaLake_1010.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014384.png
+14385,SeaLake_1011.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014385.png
+14386,SeaLake_1012.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014386.png
+14387,SeaLake_1014.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014387.png
+14388,SeaLake_1015.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014388.png
+14389,SeaLake_1017.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014389.png
+14390,SeaLake_1018.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014390.png
+14391,SeaLake_102.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014391.png
+14392,SeaLake_1020.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014392.png
+14393,SeaLake_1022.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014393.png
+14394,SeaLake_1024.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014394.png
+14395,SeaLake_1026.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014395.png
+14396,SeaLake_1029.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014396.png
+14397,SeaLake_1031.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014397.png
+14398,SeaLake_1032.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014398.png
+14399,SeaLake_1033.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014399.png
+14400,SeaLake_1034.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014400.png
+14401,SeaLake_1035.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014401.png
+14402,SeaLake_1036.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014402.png
+14403,SeaLake_1037.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014403.png
+14404,SeaLake_1038.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014404.png
+14405,SeaLake_104.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014405.png
+14406,SeaLake_1040.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014406.png
+14407,SeaLake_1041.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014407.png
+14408,SeaLake_1044.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014408.png
+14409,SeaLake_1046.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014409.png
+14410,SeaLake_1047.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014410.png
+14411,SeaLake_1048.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014411.png
+14412,SeaLake_105.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014412.png
+14413,SeaLake_1050.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014413.png
+14414,SeaLake_1053.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014414.png
+14415,SeaLake_1054.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014415.png
+14416,SeaLake_1055.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014416.png
+14417,SeaLake_1056.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014417.png
+14418,SeaLake_1057.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014418.png
+14419,SeaLake_1059.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014419.png
+14420,SeaLake_1060.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014420.png
+14421,SeaLake_1061.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014421.png
+14422,SeaLake_1062.tif,9,SeaLake,data/satellite/balanced/class_09/eurosat_014422.png

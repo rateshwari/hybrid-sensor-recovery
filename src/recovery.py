@@ -3,6 +3,9 @@
 from dataclasses import dataclass
 
 from reedsolo import RSCodec
+from threading import RLock
+
+_rs_thread_lock = RLock()
 
 
 @dataclass
@@ -27,7 +30,7 @@ def no_ecc(
     )
 
 
-def rs_encode_group(
+def _rs_encode_group_impl(
     data_packets: list[bytes],
     parity_count: int = 2,
 ) -> list[bytes]:
@@ -67,7 +70,7 @@ def rs_encode_group(
     return list(data_packets) + [bytes(packet) for packet in parity_packets]
 
 
-def rs_decode_group(
+def _rs_decode_group_impl(
     received_packets: list[bytes | None],
     data_count: int,
     parity_count: int = 2,
@@ -148,3 +151,24 @@ def rs_decode_group(
         recovered_count=recovered_count,
         reason="RS decoding completed.",
     )
+
+
+def rs_encode_group(
+    data_packets: list[bytes],
+    parity_count: int = 2,
+) -> list[bytes]:
+    """Thread-safe Reed-Solomon packet encoding."""
+    with _rs_thread_lock:
+        return _rs_encode_group_impl(data_packets, parity_count)
+
+
+def rs_decode_group(
+    received_packets: list[bytes | None],
+    data_count: int,
+    parity_count: int = 2,
+) -> RecoveryResult:
+    """Thread-safe Reed-Solomon packet decoding."""
+    with _rs_thread_lock:
+        return _rs_decode_group_impl(
+            received_packets, data_count, parity_count
+        )
